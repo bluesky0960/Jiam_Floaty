@@ -4,9 +4,9 @@
 
 
 #define FIREBASE_HOST "floaty-1567658963009.firebaseio.com" //Do not include https:// in FIREBASE_HOST
-#define FIREBASE_AUTH "bOPEFOlLDWKlTBLLybQ3WKrfM3fZTZamvoddaZQu"
+#define FIREBASE_AUTH ""
 #define WIFI_SSID "AndroidHotspot0960"
-#define WIFI_PASSWORD "98765432"
+#define WIFI_PASSWORD ""
 
 
 //Define FirebaseESP32 data object
